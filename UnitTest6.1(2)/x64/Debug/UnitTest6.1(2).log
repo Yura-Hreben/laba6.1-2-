@@ -1,0 +1,4 @@
+﻿  UnitTest6.1(2).cpp
+D:\АП візуал\laba6.1(2)\laba6.1(2)\laba6.1(2).cpp(56): warning C4715: 'foo': not all control paths return a value
+     Creating library D:\АП візуал\laba6.1(2)\x64\Debug\UnitTest6.1(2).lib and object D:\АП візуал\laba6.1(2)\x64\Debug\UnitTest6.1(2).exp
+  UnitTest6.1(2).vcxproj -> D:\АП візуал\laba6.1(2)\x64\Debug\UnitTest6.1(2).dll
